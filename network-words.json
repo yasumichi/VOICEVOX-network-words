@@ -1324,5 +1324,22 @@
     "accent_type": 1,
     "mora_count": 5,
     "accent_associative_rule": "*"
+  },
+  "69cf8e9f-0edf-4465-a7ea-348dcf93c89b": {
+    "surface": "所在",
+    "priority": 10,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ショザイ",
+    "pronunciation": "ショザイ",
+    "accent_type": 0,
+    "mora_count": 3,
+    "accent_associative_rule": "*"
   }
 }
