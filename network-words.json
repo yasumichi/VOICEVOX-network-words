@@ -1273,5 +1273,39 @@
     "accent_type": 0,
     "mora_count": 6,
     "accent_associative_rule": "*"
+  },
+  "dcfb46fd-38e5-4e09-b506-332776c2ce4f": {
+    "surface": "ＶＭｗａｒｅ",
+    "priority": 10,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ブイエムウェア",
+    "pronunciation": "ブイエムウェア",
+    "accent_type": 4,
+    "mora_count": 6,
+    "accent_associative_rule": "*"
+  },
+  "d3937eda-4ef7-495a-8e5d-791e71e863d7": {
+    "surface": "ｖＳｐｈｅｒｅ",
+    "priority": 10,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ブイスフィア",
+    "pronunciation": "ブイスフィア",
+    "accent_type": 3,
+    "mora_count": 5,
+    "accent_associative_rule": "*"
   }
 }
