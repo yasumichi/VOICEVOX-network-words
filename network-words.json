@@ -1307,5 +1307,22 @@
     "accent_type": 3,
     "mora_count": 5,
     "accent_associative_rule": "*"
+  },
+  "4e0edeb9-d10f-47c7-bc80-9e8e14593a07": {
+    "surface": "ｖＮＩＣ",
+    "priority": 10,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ブイニック",
+    "pronunciation": "ブイニック",
+    "accent_type": 1,
+    "mora_count": 5,
+    "accent_associative_rule": "*"
   }
 }
