@@ -1426,5 +1426,22 @@
     "accent_type": 1,
     "mora_count": 5,
     "accent_associative_rule": "*"
+  },
+  "7d71fd26-d20d-4b65-a6f9-e93b3dd1487c": {
+    "surface": "Ａｚｕｒｅ",
+    "priority": 9,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "アジュール",
+    "pronunciation": "アジュール",
+    "accent_type": 2,
+    "mora_count": 4,
+    "accent_associative_rule": "*"
   }
 }
