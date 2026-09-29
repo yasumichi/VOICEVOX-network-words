@@ -1579,5 +1579,22 @@
     "accent_type": 1,
     "mora_count": 3,
     "accent_associative_rule": "*"
+  },
+  "aef73321-99d2-4119-b789-2e6fc2ff16e2": {
+    "surface": "安定性",
+    "priority": 5,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "アンテイセイ",
+    "pronunciation": "アンテイセイ",
+    "accent_type": 0,
+    "mora_count": 6,
+    "accent_associative_rule": "*"
   }
 }
