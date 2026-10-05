@@ -1698,5 +1698,39 @@
     "accent_type": 4,
     "mora_count": 6,
     "accent_associative_rule": "*"
+  },
+  "56679799-3060-4db1-a10c-931a1b5ead06": {
+    "surface": "ＰｏＥ＋",
+    "priority": 5,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ピーオーイープラス",
+    "pronunciation": "ピーオーイープラス",
+    "accent_type": 5,
+    "mora_count": 9,
+    "accent_associative_rule": "*"
+  },
+  "c6b306e2-2d45-4f9c-be03-f6e71a3d030a": {
+    "surface": "ＰｏＥ＋＋",
+    "priority": 5,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ピーオーイープラスプラス",
+    "pronunciation": "ピーオーイープラスプラス",
+    "accent_type": 7,
+    "mora_count": 12,
+    "accent_associative_rule": "*"
   }
 }
