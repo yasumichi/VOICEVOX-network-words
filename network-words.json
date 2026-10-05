@@ -1681,5 +1681,22 @@
     "accent_type": 1,
     "mora_count": 4,
     "accent_associative_rule": "*"
+  },
+  "b5d98325-22fe-4b32-a610-0b1eba929ee1": {
+    "surface": "ＰｏＥ",
+    "priority": 5,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ピーオーイー",
+    "pronunciation": "ピーオーイー",
+    "accent_type": 4,
+    "mora_count": 6,
+    "accent_associative_rule": "*"
   }
 }
