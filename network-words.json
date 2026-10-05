@@ -1664,5 +1664,22 @@
     "accent_type": 1,
     "mora_count": 3,
     "accent_associative_rule": "*"
+  },
+  "8f23b61b-045d-481c-a493-49a7b51d0319": {
+    "surface": "ｓｙｓｌｏｇ",
+    "priority": 5,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "シスログ",
+    "pronunciation": "シスログ",
+    "accent_type": 1,
+    "mora_count": 4,
+    "accent_associative_rule": "*"
   }
 }
