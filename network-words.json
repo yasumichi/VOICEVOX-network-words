@@ -1732,5 +1732,22 @@
     "accent_type": 7,
     "mora_count": 12,
     "accent_associative_rule": "*"
+  },
+  "e64d5d8b-5ef1-4573-aab7-988cb37924da": {
+    "surface": "ｄＢｉ",
+    "priority": 5,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ディービーアイ",
+    "pronunciation": "ディービーアイ",
+    "accent_type": 4,
+    "mora_count": 6,
+    "accent_associative_rule": "*"
   }
 }
