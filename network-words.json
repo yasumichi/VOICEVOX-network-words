@@ -1817,5 +1817,22 @@
     "accent_type": 1,
     "mora_count": 5,
     "accent_associative_rule": "*"
+  },
+  "3c9ffcf0-7f24-4aaf-8d66-e09ff1a9715e": {
+    "surface": "ＴｏＳ",
+    "priority": 5,
+    "context_id": 1348,
+    "part_of_speech": "名詞",
+    "part_of_speech_detail_1": "固有名詞",
+    "part_of_speech_detail_2": "一般",
+    "part_of_speech_detail_3": "*",
+    "inflectional_type": "*",
+    "inflectional_form": "*",
+    "stem": "*",
+    "yomi": "ティーオーエス",
+    "pronunciation": "ティーオーエス",
+    "accent_type": 1,
+    "mora_count": 6,
+    "accent_associative_rule": "*"
   }
 }
